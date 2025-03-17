@@ -31,6 +31,6 @@ function submitEntry() {
         alert("Please enter your name!");
         return;
     }
-    window.location.href = "o=19692&c=918277&a=739788&k=BC36511AB81E67FACCCE87C11681AC73&l=20643";
+    window.location.href = "https://afflat3d2.com/trk/lnk/74C1DBEB-50FE-447B-8E84-205EAB7C4C12/?o=19692&c=918277&a=739788&k=BC36511AB81E67FACCCE87C11681AC73&l=20643";
 }
 
